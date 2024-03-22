@@ -133,9 +133,9 @@ class data:
 #=========================================== Main ============================================#
 
 if __name__ == '__main__':
-    df = data(logic='XOR')
-    X = df.X
-    y = df.y
+    #df = data(logic='XOR')
+    #X = df.X
+    #y = df.y
     w = [0, 0, 0]
     model = Perceptron(epochs=1, learning_rate=1)
     model.fit(X, y, w, activation='binary_step')

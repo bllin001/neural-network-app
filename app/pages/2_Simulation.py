@@ -116,7 +116,7 @@ def render_data_frame(X, y):
     return df
 
 if st.checkbox('Show dataframe'):
-    st.write(render_data_frame(df.X, df.y))
+    st.dataframe(render_data_frame(df.X, df.y))
 
 #------------------ Run the simulation ------------------#
 

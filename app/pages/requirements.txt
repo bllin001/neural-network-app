@@ -240,7 +240,7 @@ srsly @ file:///Users/runner/miniforge3/conda-bld/srsly_1677657718838/work
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
 stanza @ file:///home/conda/feedstock_root/build_artifacts/stanza-meta_1678809929312/work
 statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1683305739900/work
-streamlit==1.28.1
+streamlit==1.30.0
 sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1684180540116/work
 tabulate==0.9.0
 tenacity==8.2.2

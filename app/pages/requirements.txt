@@ -279,7 +279,7 @@ wasabi @ file:///Users/runner/miniforge3/conda-bld/wasabi_1673946074681/work
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
 webencodings==0.5.1
 websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1675567828044/work
-Werkzeug==3.0.0
+Werkzeug==3.0.3
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1680021576815/work
 wordcloud==1.9.2
 wrapt==1.14.1

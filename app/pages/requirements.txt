@@ -183,7 +183,7 @@ pybind11==2.11.1
 pychord==1.2.0
 pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1666836623787/work
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
-pycryptodome==3.18.0
+pycryptodome==3.19.1
 pydantic @ file:///Users/runner/miniforge3/conda-bld/pydantic_1679565524285/work
 pydeck==0.8.1b0
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1681904169130/work

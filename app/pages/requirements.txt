@@ -176,7 +176,7 @@ psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1681775207008/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
 py4j==0.10.9.7
-pyarrow==12.0.0
+pyarrow==14.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pybind11==2.11.1

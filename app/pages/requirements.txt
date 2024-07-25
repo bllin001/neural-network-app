@@ -74,7 +74,7 @@ gast==0.5.4
 GDAL @ file:///Users/runner/miniforge3/conda-bld/gdal-split_1678794200052/work/build/swig/python
 geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1683384012847/work
 gitdb==4.0.10
-GitPython==3.1.35
+GitPython==3.1.41
 gmpy2 @ file:///Users/runner/miniforge3/conda-bld/gmpy2_1666808753481/work
 google-api-core @ file:///home/conda/feedstock_root/build_artifacts/google-api-core-split_1670580271439/work
 google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1683751600794/work

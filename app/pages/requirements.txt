@@ -22,7 +22,7 @@ branca @ file:///home/conda/feedstock_root/build_artifacts/branca_1667848736831/
 brotlipy @ file:///Users/runner/miniforge3/conda-bld/brotlipy_1666764759924/work
 cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1674482203741/work
 catalogue @ file:///Users/runner/miniforge3/conda-bld/catalogue_1666891976332/work
-certifi==2023.5.7
+certifi==2024.7.4
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1671179893800/work
 chardet==3.0.4
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work

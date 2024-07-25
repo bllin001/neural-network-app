@@ -218,7 +218,7 @@ scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1679676140
 scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1683719544899/work/dist/scipy-1.10.1-cp310-cp310-macosx_11_0_arm64.whl#sha256=7859e64c03d4dad13b351051e1b7428f31e39a3e080d7ec05143977267bb1d2e
 seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1672497695270/work
 Send2Trash @ file:///Users/runner/miniforge3/conda-bld/send2trash_1682601407921/work
-sentry-sdk==1.30.0
+sentry-sdk==2.8.0
 seqeval==1.2.2
 setproctitle==1.3.2
 Shapely @ file:///Users/runner/miniforge3/conda-bld/shapely_1668518218855/work

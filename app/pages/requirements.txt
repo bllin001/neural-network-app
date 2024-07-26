@@ -45,7 +45,6 @@ multiprocess==0.70.15
 munch==2.5.0
 munkres==1.1.4
 nlpcube==0.3.1.2
-nltk==3.8.1
 nlu==5.0.1
 numpy==1.25.0
 oauthlib==3.2.2
